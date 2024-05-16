@@ -1,11 +1,12 @@
-# Welcome to My GitHub Profile - Dive into my world of code and innovation!
+# Welcome to my world of code and innovation!
 
 ![Header Image](https://github.com/navneetgzb/navneetgzb/blob/main/github-header-image.png)
 
 ## Hi there! I'm Navneet Kumar 👋
 
-I'm a passionate Software Engineer with expertise in:
+I'm a passionate Software Engineer with 10+ years experience working in various domains and expertise in:
 
+- **Full Stack**
 - **Distributed Systems**
 - **AI Tools**
 - **Custom Software Development**
@@ -25,10 +26,6 @@ I'm a passionate Software Engineer with expertise in:
 - CI/CD - GitLab runners, GitHub Actions, AWS CodePipeline 
 - Containerization - Docker 
 - VCS tools - GitHub & GitLab.
-
-## 🔭 Current Projects
-- [**Project 1**](https://github.com/yourusername/project1): A brief description of Project 1 and its goals.
-- [**Project 2**](https://github.com/yourusername/project2): A brief description of Project 2 and its goals.
 
 ## 🌱 Learning Goals
 - Enhancing my knowledge in advanced and the latest technology stack.
