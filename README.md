@@ -13,18 +13,18 @@ I'm a passionate Software Engineer with expertise in:
 - **DevOps**
 
 ## 🛠️ Technologies & Tools
-•	Frontend Language - ReactJS, JavaScript, Ajax, jQuery, JSON, HTML, XML 
-•	Backend Language - NodeJS, Python, PHP 
-•	Database - MySQL, PostgreSQL, Mongo databases & GraphQL 
-•	Cloud Platform - AWS [EC2, S3, Lambda, RDS, VPC, Route 53, API Gateways, IAM, CodeDeploy, CloudFormation, CloudWatch, Load balancing, Auto-scaling] 
-•	API Frameworks & Tools - FastAPI, Postman, Swagger, SonarQube 
-•	Caching Systems - Memcached and Redis 
-•	Message Brokers - Apache Kafka and RabbitMQ 
-•	Architecture - Monolithic, Microservices, Serverless, Event-Driven Architecture 
-•	Communication protocols - REST, SOAP, WebSocket, SocketIO, SMTP, FTP, mRemoteNG
-•	CI/CD - GitLab runners, GitHub Actions, AWS CodePipeline 
-•	Containerization - Docker 
-•	VCS tools - GitHub & GitLab.
+- Frontend Language - ReactJS, JavaScript, Ajax, jQuery, JSON, HTML, XML 
+- Backend Language - NodeJS, Python, PHP 
+- Database - MySQL, PostgreSQL, Mongo databases & GraphQL 
+- Cloud Platform - AWS [EC2, S3, Lambda, RDS, VPC, Route 53, API Gateways, IAM, CodeDeploy, CloudFormation, CloudWatch, Load balancing, Auto-scaling] 
+- API Frameworks & Tools - FastAPI, Postman, Swagger, SonarQube 
+- Caching Systems - Memcached and Redis 
+- Message Brokers - Apache Kafka and RabbitMQ 
+- Architecture - Monolithic, Microservices, Serverless, Event-Driven Architecture 
+- Communication protocols - REST, SOAP, WebSocket, SocketIO, SMTP, FTP, mRemoteNG
+- CI/CD - GitLab runners, GitHub Actions, AWS CodePipeline 
+- Containerization - Docker 
+- VCS tools - GitHub & GitLab.
 
 ## 🔭 Current Projects
 - [**Project 1**](https://github.com/yourusername/project1): A brief description of Project 1 and its goals.
