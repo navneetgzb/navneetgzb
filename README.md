@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Header Image](https://media.licdn.com/dms/image/D4E16AQGFL8d95dnXsg/profile-displaybackgroundimage-shrink_350_1400/0/1674231559126?e=1721260800&v=beta&t=_OVgwqDISqNy4XJHcZFvC2BjpW1_p560SNBOtOnKzf4)
+![Header Image](https://github.com/navneetgzb/navneetgzb/blob/main/github-header-image.png)
 
 ## Hi there! I'm Navneet Kumar 👋
 
