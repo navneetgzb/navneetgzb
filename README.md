@@ -39,5 +39,5 @@ I'm a passionate Software Engineer with 10+ years experience working in various 
 🌟 Fun Fact: I can turn coffee into code faster than you can say 'debug!' 🚀
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![navneetgzb GitHub stats](https://github-readme-stats.vercel.app/api?username=navneetgzb&show_icons=true&theme=radical)
 
